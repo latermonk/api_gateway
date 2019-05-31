@@ -48,7 +48,7 @@ docker run --rm -p 8080:8080 pgbi/kong-dashboard start --kong-url http://kong:80
 
 
 ### 访问dashboard
-[http://10.254.21.3:8080](http://10.254.21.3:8080)
+[http://114.115.169.131:8080](http://114.115.169.131:8080)
 
 
 
