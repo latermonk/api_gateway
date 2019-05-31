@@ -35,6 +35,8 @@ curl -i http://localhost:8001/
 
 ### 安装kong-dashboard
 
+[https://hub.docker.com/r/pgbi/kong-dashboard](https://hub.docker.com/r/pgbi/kong-dashboard)
+
 
 ```
  docker run --rm -p 8080:8080 pgbi/kong-dashboard:v2  start --kong-url http://114.115.169.131:8001
