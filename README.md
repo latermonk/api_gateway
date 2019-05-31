@@ -37,6 +37,12 @@ curl -i http://localhost:8001/
 
 
 ```
+ docker run --rm -p 8080:8080 pgbi/kong-dashboard:v2  start --kong-url http://114.115.169.131:8001
+```
+
+
+
+```
 docker run --rm -p 8080:8080 pgbi/kong-dashboard start --kong-url http://kong:8001
 ```
 
