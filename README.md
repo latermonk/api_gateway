@@ -1,7 +1,9 @@
 # API- Gateway
 
 
-[gradient-logo](_images/gradient-logo.svg)
+
+![kong-logo](_images/kong-logo.png)
+
 
 
 
